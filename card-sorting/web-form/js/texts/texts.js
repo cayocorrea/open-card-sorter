@@ -2,8 +2,8 @@ var texts = {
     appTitle: [ `Open Card Sorter` ],
     introTitle: [ `Vamos começar%userNameComma?` ],
     introText: [
-        `Nesta atividade de card sorting, queremos entender melhor como você relaciona algumas informações para projetarmos uma experiência do usuário melhor.`,
-        `Ela dura em torno de <b>10 a 15 minutos</b> para ser completada. É rapidinho e vai nos ajudar muito!`,
+        `Nesta atividade de card sorting, queremos entender melhor como você prioriza algumas informações para projetarmos uma experiência do usuário melhor.`,
+        `Ela dura em torno de <b>5 a 10 minutos</b> para ser completada. É rapidinho e vai nos ajudar muito!`,
     ],
     introPreAuth: [
         `Para começar, como posso te chamar?`,
@@ -27,21 +27,21 @@ var texts = {
             title: [`Passo 1`],
             text: [
                 `Dá uma olhada nos cartões ao lado, %userName.`,
-                `Sua tarefa será organizar esses cards em grupos de similaridade que façam sentido para você.`,
-                `Arraste um dos cards para a direita para criar seu primeiro grupo.`
+                `Sua tarefa será organizar esses cards em apenas 1 grupo priorizando da informação mais relevante (para cima) a menos relevante (para baixo) que faça sentido para você.`,
+                `Arraste um dos cards para a direita para criar 1 grupo.`
             ]
         },
         {
             title: [`Passo 2`],
             text: [
-                `Mova os cartões ao lado até que todos estejam agrupados. Agrupe cartões que você considera relacionados. Você pode criar quantos grupos quiser, inclusive grupos com apenas 1 cartão!`,
-                `Lembre-se, %userName: não tem certo ou errado, você escolhe como agrupar os cartões de acordo com o que fizer mais sentido para você!`
+                `Mova os cartões ao lado até que todos estejam em 1 grupo só.`,
+                `Lembre-se, %userName: não tem certo ou errado, você escolhe dos cartões de acordo com o que fizer mais sentido para você!`
             ]
         },
         {
             title: [`Passo 3`],
             text: [
-                `Revise os grupos e <strong>dê um nome para cada um</strong> que você criou. Pense em um título que represente os cartões contidos nele.`,
+                `Revise os cards priorizados.`,
             ]
         },
         {
